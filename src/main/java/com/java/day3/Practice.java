@@ -38,28 +38,6 @@ public class Practice {
 		   }
 		   
 		   System.out.println(m);
-		   
-		   
-		   
-	
-		   
-		   
-		   
-		   
-		   
-		   
-		   
-		   
-		   
-		   
-		   
-		   
-		   
-		   
-		   
-		   
-		   
-
 
 	}
 
