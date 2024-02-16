@@ -1,4 +1,4 @@
-package com.java.day6Practice;
+package com.java.Practice;
 
 //Create a class which has the main method.
 //Inside this class create public, private, protected, default, static and non-static method

@@ -1,4 +1,4 @@
-package com.java.day6Practice;
+package com.java.Practice;
 
 public class Separate_Class_ {
 	
